@@ -4,7 +4,7 @@ date: 2018-06-05 22:40:50
 tags:
 ---
 
-（翻译 [ReactiveX 官网](http://reactivex.io/intro.html)）*
+**（翻译 [ReactiveX 官网](http://reactivex.io/intro.html)）**
 
 [ReactiveX](http://reactivex.io/intro.html) 是通过观察者序列实现的“异步”和“基于事件”的开发范式的类库。
 
